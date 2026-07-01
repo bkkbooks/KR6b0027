@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0027/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 睒子經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0175a.xml
+    old_id: T03n0175a
+hash: sha256:09c2e6d44cf4178d744401ae1da720b8d2e26ccaf751c26231a6bec4d688cde1
